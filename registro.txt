@@ -1,0 +1,3 @@
+nombre,apellido,cuenta_bancaria,balance
+Diana,Garcia,10032023,25000000
+Alba,Ocampo,22041956,100000000

@@ -37,7 +37,7 @@ class Cliente(Persona):
 
 #Funciones propias del código
 def consultar_cliente(entr):
-    os.chdir('C:\\Diana\\Diana2023\\Data Science\\Python\\16_days\\Day 7\\Cuentas')
+    os.chdir('C:\\Diana\\Documents')
     count = 0
     with open('registro.txt') as file:
         ret = 'NE', 0, 0, 0
